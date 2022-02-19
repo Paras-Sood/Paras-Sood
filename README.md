@@ -15,6 +15,15 @@
 - 💬  Feel free to reach out
 
 
+## ✉ Connect with me :
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/paras29sood"><img src="linkedin.png" height="70" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.instagram.com/paras29sood/"><img src="instagram.png" height="70" style="vertical-align:top; margin:4px"></a>
+  <a href="mailto:paras29sood@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
+</p>
+
+
 ## 🧰 Languages and Tools
 
 <p align='center'>
@@ -24,14 +33,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"  height="70" style="vertical-align:top; margin:5px" >
 </p>
 
-
-## ✉ Connect with me :
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/paras29sood"><img src="linkedin.png" height="70" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.instagram.com/paras29sood/"><img src="instagram.png" height="70" style="vertical-align:top; margin:4px"></a>
-  <a href="mailto:paras29sood@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
-</p>
 
 ## ⚙️  GitHub Analytics
 
