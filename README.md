@@ -18,8 +18,8 @@
 ## ✉ Connect with me :
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/paras29sood"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height="70" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.instagram.com/paras29sood/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" height="70" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/paras29sood"><img src="linkedin.png" height="70" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.instagram.com/paras29sood/"><img src="instagram.png" height="70" style="vertical-align:top; margin:4px"></a>
   <a href="mailto:paras29sood@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
