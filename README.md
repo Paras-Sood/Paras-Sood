@@ -8,18 +8,18 @@
 ## 🧰 Languages and Tools
 
 <p align='center'>
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+    <img height="50" margin="4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+    <img height="50" margin="4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+    <img height="50" margin="4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+    <img height="50" margin="4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
 </p>
 
 
-## Connect with me :
+## ✉ Connect with me :
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/paras29sood"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-  <a href="https://www.instagram.com/paras29sood/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+  <a href="https://www.linkedin.com/in/paras29sood"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height="70" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.instagram.com/paras29sood/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" height="70" style="vertical-align:top; margin:4px"></a>
   <a href="mailto:paras29sood@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
