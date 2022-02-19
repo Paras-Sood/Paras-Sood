@@ -5,6 +5,16 @@
 
 ## 🎓 I'm currently pursuing BE focused in Computer Science from Thapar Institute of engineering & technology
 
+<!-- * 💡  I like to explore new technologies and develop elegant solutions to complex problems.
+* 🌱  I'm on track for learning more about python automation & machine learning
+* 👯  open to colabs on projects
+* 💬  Feel free to reach out -->
+
+- 🌱 I’m currently learning __Python and Machine Learning__
+- 👯 Open to collaborate on Cool and exciting projects
+- 💬  Feel free to reach out
+
+
 ## 🧰 Languages and Tools
 
 <p align='center'>
