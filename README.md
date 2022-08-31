@@ -28,7 +28,9 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"  height="70" style="vertical-align:top; margin:5px" >
 </p>
 
+## Leetcode Profile
+![Leetcode Stats](https://leetcard.jacoblin.cool/Paras29Sood?ext=contest)
 
-## ⚙️  GitHub Analytics
+## ⚙️ Github Analytics
 
 ![Paras' GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras-Sood&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Sood&exclude_repo=ELC-2020,disease-predictor&theme=dark)
