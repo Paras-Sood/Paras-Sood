@@ -30,6 +30,7 @@
 
 ## Leetcode Profile
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Paras29Sood?ext=contest)
+<!--  Repo  -   https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 
 ## ⚙️ Github Analytics
 
