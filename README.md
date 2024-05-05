@@ -34,4 +34,4 @@
 
 ## ⚙️ Github Analytics
 
-![Paras' GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras-Sood&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Sood&exclude_repo=ELC-2020,disease-predictor&theme=dark)
+![Paras' GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras-Sood&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Sood&exclude_repo=ELC-2020,disease-predictor,Time_Series_Prediction,irrigation_schedule_recommendor,frontend,front_end,HomePage-QuickAid&theme=dark)
