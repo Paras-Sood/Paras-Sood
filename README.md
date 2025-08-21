@@ -3,9 +3,10 @@
 
 [![Github](https://img.shields.io/github/followers/Paras-Sood?label=Follow&style=social)](https://github.com/Paras-Sood) &nbsp; ![views](https://komarev.com/ghpvc/?username=Paras-Sood)
 
-## 🎓 I'm currently working as an SDE-1 @Flipkart
+## 🎓 I'm currently working as an SDE-2 @Flipkart
 
 - 🌱 I’m currently learning __How to build scalable & robust backends with java__
+- 💻 Currently building [InterviewBreeze](interviewbreeze.com)
 - 👯 Open to collaborate on Cool and exciting projects
 - 💬  Feel free to reach out
 
